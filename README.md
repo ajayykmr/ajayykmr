@@ -26,7 +26,7 @@
 <br clear="both">
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="100" alt="mongodb logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=postgres" height="100" alt="postgresql logo"  />
@@ -44,6 +44,14 @@
   <img src="https://skillicons.dev/icons?i=redis" height="100" alt="redis logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=flutter" height="100" alt="flutter logo"  />
+</div> -->
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,go,docker,kafka,redis,flutter&perline=9&theme=dark"
+    width="720"
+    alt="tech stack"
+  />
 </div>
 
 <br>
