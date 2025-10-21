@@ -13,12 +13,39 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ajayykmr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/ajayykmr/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+      height="32"
+    />
   </a>
-  <a href="mailto:01ajay01kumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+
+  <a href="https://github.com/ajayykmr" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+      height="32"
+    />
   </a>
+
+  <a href="mailto:01ajay01kumar@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail"
+      height="32"
+    />
+  </a>
+
+  <a href="https://aqbit.in/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfolio"
+      height="32"
+    />
+  </a>
+
 </div>
 
 ###
