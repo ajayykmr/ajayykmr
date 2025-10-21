@@ -27,23 +27,23 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="55" alt="googlecloud logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=go" height="55" alt="go logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="55" alt="apachekafka logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=redis" height="55" alt="redis logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
 </div>
 
 <br>
