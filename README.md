@@ -27,23 +27,23 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="55" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="55" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="55" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="55" alt="googlecloud logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="55" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="55" alt="go logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="55" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="55" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="55" alt="apachekafka logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="55" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="55" alt="redis logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="flutter logo"  />
 </div>
 
 <br>
