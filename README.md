@@ -38,7 +38,7 @@
     />
   </a>
 
-  <a href="https://aqbit.in/" target="_blank" rel="noopener noreferrer">
+  <a href="https://ajayykmr.com/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
       alt="Portfolio"
